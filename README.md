@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anadenanthera
+- 👋 Hi, I’m Juli Ana
 - 👀 I’m interested in programming and data science
 - 🌱 I’m currently learning Java and SQL
 - 💞️ I’m looking to collaborate on new and easy projects for beginners
